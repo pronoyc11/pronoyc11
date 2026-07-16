@@ -28,7 +28,7 @@ Building scalable web applications with **Next.js**, **Typescript**, **Prisma** 
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=mahmudulkarim420&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=pronoyc11&style=for-the-badge&color=blue)
 
 </div>
 
