@@ -133,29 +133,92 @@ Looking for oppurtunaty
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/pronoyc11/gearup-backend.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronoyc11&repo=gearup-backend&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<a href="https://github.com/pronoyc11/devpulse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronoyc11&repo=devpulse&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+<a href="https://github.com/pronoyc11/web_chat_app.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pronoyc11&repo=web_chat_app&theme=tokyonight&hide_border=true&border_radius=12" />
+</a>
+
+</div>
+
+## GearUp Backend
+
+GearUp Backend is a REST API for a sports and equipment rental platform. It supports customer and provider accounts, gear listing management, category management, rental order workflows, admin controls, reviews, and Stripe checkout/payment webhooks.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma_7-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tsdown-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+**Tech Stack:** Node.js, Express.js 5, TypeScript, Prisma 7, PostgreSQL, JWT, bcrypt, cookie-parser, CORS, Stripe, Zod, tsx, tsdown, Vercel.
+
+## DevPulse
+
+DevPulse is a RESTful issue tracking backend for development teams. It includes contributor and maintainer roles, JWT-based authentication, issue CRUD operations, role-based permissions, PostgreSQL-backed persistence, filtering/query support, and centralized error handling.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bcrypt-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/tsup-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+**Tech Stack:** Node.js, Express.js 5, TypeScript, PostgreSQL with `pg`, JWT, bcrypt, dotenv, CORS, tsx, tsup, Render.
+
+## Web Chat App
+
+Web Chat App is a real-time one-to-one chat application with account signup/login, 4-digit user codes, live messaging, image sharing, reactions, read receipts, typing indicators, recent chats, and browser notifications. The app serves a vanilla HTML/CSS/JavaScript frontend from an Express server and uses Socket.IO for realtime communication.
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js_4-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+**Tech Stack:** Node.js, Express.js 4, Socket.IO, MongoDB, Mongoose, JavaScript, HTML5, CSS3, bcrypt, dotenv, CORS, body-parser, Nodemon, Render.
+
+---
+
 # 📊 GitHub Insights
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pronoyc11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronoyc11&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudulkarim420&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<br><br>
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pronoyc11&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pronoyc11&theme=tokyonight"/>
 
-<br>
+<br><br>
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-|                                                 GitHub Stats                                                 |                                                 Most Used Languages                                                 |
-| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pronoyc11&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronoyc11&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=pronoyc11&style=flat-square)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pronoyc11&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
