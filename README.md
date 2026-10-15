@@ -10,7 +10,7 @@ Building scalable web applications with **Next.js**, **Typescript**, **Prisma** 
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=36E463&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+%7C+TypeScript;React+%7C+Prisma+%7C+PostgreSQL;Always+Learning+New+Technologies;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=36E463&center=true&vCenter=true&width=900&lines=Backend+Engineer;Next.js+%7C+TypeScript;React+%7C+Prisma+%7C+PostgreSQL;Always+Learning+New+Technologies;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
 
 <p>
 
