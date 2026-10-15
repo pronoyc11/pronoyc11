@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Pronoy Chowdhury
 
-### Full Stack Developer
+### Backend Engineer
 
 Building scalable web applications with **Next.js**, **Typescript**, **Prisma** & **PostgreSQL**
 
@@ -38,7 +38,7 @@ Building scalable web applications with **Next.js**, **Typescript**, **Prisma** 
 
 - 👋 Hi, I'm **Pronoy Chowdhury**
 
-- 🚀 Full Stack Developer from **Bangladesh** passionate about building scalable and modern web applications.
+- 🚀 Backend Engineer from **Bangladesh** passionate about building scalable and modern web applications.
 
 - 💻 Frontend: **React.js, Next.js, TypeScript, Tailwind CSS, Shadcn UI**
 
@@ -99,7 +99,7 @@ Building scalable web applications with **Next.js**, **Typescript**, **Prisma** 
 
 # 💼 Experience
 
-Looking for oppurtunaty
+Looking for oppurtunity
 
 ### 📌 Responsibilities
 
